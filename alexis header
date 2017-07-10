@@ -1,0 +1,57 @@
+ this is header 
+ this is even a smaller header 
+ Even smaller 
+ Quite small 
+
+ Here is some normla text.A paragraph even 
+
+ *This text is in italics 
+
+ **this text is in bold
+
+ ***This text is in both 
+ this text is rendered with strikethrough 
+
+ Sometimes you want to embed some /* stylized text /* 
+
+ *item
+ *item 
+ *Another item 
+
+
+ or 
+
+
+ + Item
+ + Item
+ + One more item 
+ 
+
+or 
+
+-Item 
+-Item 
+-One last item 
+
+or 
+
+1. Item one 
+2. Item two 
+3.Item three 
+
+w/ sub- lists 
+
+1. Item one 
+2. Item two 
+3. Item three 
+	1. sub-item 
+	2.sub -item
+4. Itme four 
+
+---
+
+[I'm a link to a webpage](http:// www.google.com)
+
+![alt text] (http://i.imgur.com/81qyN1y.jpg)
+
+![local photo] (assests/profile,png)
